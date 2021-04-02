@@ -57,7 +57,7 @@ coverage.xml
 
 # Django stuff:
 *.log
-channel_manager/settings.py
+# channel_manager/settings.py
 local_settings.py
 db.sqlite3
 db.sqlite3-journal

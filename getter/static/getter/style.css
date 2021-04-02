@@ -1,0 +1,42 @@
+body {
+  background: rgb(170, 210, 250);
+  margin: 3em;
+  padding: 40px 0;
+}
+header {
+  padding: 3rem;
+  display: flex;
+  justify-content: space-around;
+}
+main {
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+main a {
+  padding: 1em;
+  border: 1.5px solid #88f188;
+  margin: 0.5em;
+  background: #105a10;
+  color: #37b007;
+  text-align: center;
+  text-decoration: none;
+}
+main a:hover {
+  text-decoration: underline;
+  background: white;
+  color: black;
+}
+footer {
+  padding: 3rem;
+  text-align: center;
+  margin: 0.5em;
+}
+footer a {
+  text-decoration: none;
+  font-size: 1.5em;
+}
+footer a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
