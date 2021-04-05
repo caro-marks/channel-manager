@@ -1,12 +1,22 @@
 body {
   background: rgb(170, 210, 250);
-  margin: 3em;
-  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
 }
 header {
   padding: 3rem;
   display: flex;
   justify-content: space-around;
+}
+header h1 {
+  font-size: 0.5rem;
+  font-weight: 650;
+  line-height: 2;
+}
+header h2 {
+  font-size: 0.4rem;
+  font-weight: 550;
+  line-height: 1.5;
 }
 main {
   padding: 3rem;

@@ -10,5 +10,7 @@ urlpatterns = [
     path('export_sell_price_rules/', views.export_sell_price_rules,
          name='export_sell_price_rules'),
     path('export_seazone_listings/', views.export_seazone_listings,
-         name='export_seazone_listings')
+         name='export_seazone_listings'),
+    path('export_listings_sell_prices/', views.export_listings_sell_prices,
+         name='export_listings_sell_prices')
 ]

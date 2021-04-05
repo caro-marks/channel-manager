@@ -1,200 +1,45 @@
-_id,name,hint,type,from,to,status,ratePlans,_idregion,useMonthlyRate
-5dd57c57911b560010d2405b,0-7 dias Mid,,event,2019-11-21,2019-12-01,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd57a53911b560010d23fc5,Dezembro Fase 2,,season,2019-12-01,2020-01-01,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dfb2dd5c3041c0010aca2ec,0-14-HighFP,0-14-HighFP,event,2019-12-18,2019-12-27,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd57c14911b560010d2403d,Reveillon,,event,2019-12-27,2020-01-04,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd6ed488dccc00010bc9288,Janeiro Fase 2,,season,2020-01-01,2020-02-01,active,"[{'minStay': 3, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd57ed9911b560010d24418,0-7 dias High Fase 2,,event,2020-01-23,2020-02-01,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd6ed7e8dccc00010bc9290,Fevereiro Fase 2,,season,2020-02-01,2020-03-01,active,"[{'minStay': 3, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5e29d1136cfdbc0011d7aa12,7-14 dias High Fase 2,,event,2020-02-01,2020-02-21,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd58207911b560010d245ae,Carnaval,,event,2020-02-21,2020-02-26,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd58299911b560010d245cd,Pós Carnaval,,event,2020-02-26,2020-03-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd57ac0911b560010d23fe1,Março Fase 2,,season,2020-03-01,2020-04-01,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd5857b911b560010d24717,Aniversario Florianópolis,,event,2020-03-20,2020-03-22,active,"[{'minStay': 3, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd6f9fc8dccc00010bc98e0,Abril Fase 2,,season,2020-04-01,2020-05-01,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd58606911b560010d24729,Sexta-Feira Santa,,event,2020-04-09,2020-04-12,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd58943911b560010d248b4,Tiradentes,,event,2020-04-17,2020-04-21,active,"[{'minStay': 1, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd589a7911b560010d248c6,Dia do trabalhador,,event,2020-04-30,2020-05-03,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd57b23911b560010d24005,Maio Fase 2,,season,2020-05-01,2020-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd7f3c59272470010966746,Junho Fase 2,,season,2020-06-01,2020-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd58b09911b560010d2490a,Corpus Christi,,event,2020-06-10,2020-06-14,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dd68a35911b560010d27766,Julho Fase 2,,season,2020-07-01,2020-08-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5e57f7b44f23c500103e598d,Fevereiro 2021 Fase 2,,season,2021-02-01,2021-03-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f4912bc144ab76260fca3e8,Março 2021 Fase 2,,season,2021-03-01,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f4912fa144ab753dffca3f5,Abril 2021 Fase 2,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f49132e144ab7fa81fca3fd,Páscoa 2021 Fase 2,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f491351144ab74c21fca420,Maio 2021 Fase 2,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f491486144ab7288afca459,Junho 2021 Fase 2,,season,2021-06-01,2021-07-01,active,"[{'minStay': 3, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f49156e144ab7708efca495,Corpus Christi 2021 Fase 2,,event,2021-06-02,2021-06-06,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f5c5622e5b2df6e17e54b6d,Julho Fase 2,2021,season,2021-07-01,2021-08-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee47708e9f440010d8cb79,Agosto Fase 2 2020,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee478d8e9f440010d8cb7c,Setembro Fase 2 2020,,season,2021-09-01,2021-10-01,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee4bb98e9f440010d8cfba,Feriado Fase 2 Independência 2021,,event,2021-09-03,2021-09-07,active,"[{'minStay': 4, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee47c68e9f440010d8cb8a,Outubro Fase 2 2021,,season,2021-10-01,2021-11-01,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee4bf78e9f440010d8cfcc,Feriado Fase 2 N S Aparecida 2021,,event,2021-10-08,2021-10-12,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee4c228e9f440010d8cfd4,Feriado Fase 2 Finados 2021,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee47fe8e9f440010d8cb8e,Novembro Fase 2 2021,,season,2021-11-01,2021-12-01,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5f491437144ab7b575fca441,Iron Man Jurerê 2021 Fase 2,,event,2021-11-04,2021-11-08,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-603fa6533f51b5277fe4b155,Feriado República 2021,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee48268e9f440010d8cb91,Dezembro Fase 2 2021,,season,2021-12-01,2022-01-01,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee5658bca5eb00100b34b1,Natal Fase 2 2020,,event,2021-12-23,2021-12-27,active,"[{'minStay': 5, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5dee5697bca5eb00100b34ba,Ano novo Fase 2 2021,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5e331d4abcf3bf0011e5a2e4,Janeiro 2022 Fase 2,2021,season,2022-01-01,2022-02-01,active,"[{'minStay': 7, '_i_percent': 0}]",5dced40d9d6eb50010416ca4,False
-5de54e687ba5e300103cfd4a,Alta Temporada,,season,2019-12-01,2020-03-01,active,"[{'minStay': 2, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-5de54f3f7ba5e300103cfd92,Natal e Ano novo - Pousadas,,event,2019-12-20,2020-01-04,active,"[{'minStay': 4, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-5de54eb07ba5e300103cfd5b,Baixa temporada 1,,season,2020-03-01,2020-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-5de54f057ba5e300103cfd76,Julho - Pousadas,,event,2020-07-01,2020-08-01,active,"[{'minStay': 2, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-5dea7ee58e9f440010d7f2cd,Baixa temporada 2,,season,2020-08-01,2020-11-30,active,"[{'minStay': 2, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-604e52b0ad845e1d8e3e8491,Dummy Season 1,,season,2021-04-01,2021-05-01,active,"[{'minStay': 10, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-604fa588c46b50221d3753df,Dummy Season 2,,season,2021-05-01,2021-06-01,active,"[{'minStay': 10, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-604fa5c299f210ba4a39f461,Dummy Season 3,,season,2021-06-01,2021-07-01,active,"[{'minStay': 10, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-604fa5e199f210939e39f46a,Dummy Season 4,,season,2021-07-01,2021-08-01,active,"[{'minStay': 10, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-604fa5fe99f2107d0239f473,Dummy Season 5,,season,2021-08-01,2021-09-01,active,"[{'minStay': 10, '_i_percent': 0}]",5de54e337ba5e300103cfd44,False
-5f6bb8d54056b070d0eca046,Março 2021 Ingleses,,season,2021-03-01,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb90d4056b0fe43eca050,Abril 2021 Ingleses,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bc1f44056b08496eca2a8,Páscoa 2021 Ingleses,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb9b74056b038f9eca06b,Maio 2021 Ingleses,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb9db4056b03613eca07a,Junho 2021 Ingleses,,season,2021-06-01,2021-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bc28d4056b0ce19eca2dd,Corpus Christi 2021 Ingleses,,event,2021-06-02,2021-06-06,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-6046274d52172673f903bcf2,Julho 2021 Ingleses,,season,2021-07-01,2021-08-01,active,"[{'minStay': 2, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-604662718549524473820b32,Agosto 2021 Ingleses,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bac774056b02d24ec9074,Setembro 2021 Ingleses,,season,2021-09-01,2021-10-01,active,"[{'minStay': 4, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-60467acc521726171d03df69,Iron Man 2021 Ingleses,,event,2021-09-16,2021-09-22,active,"[{'minStay': 4, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bad1e4056b06f1eec90dc,Outubro 2021 Ingleses,,season,2021-10-01,2021-11-01,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bbc2a4056b09754eca132,12 Outubro 2021 Ingleses,,event,2021-10-08,2021-10-12,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bbc5e4056b0851aeca162,02 Novembro 2021 Ingleses,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb0ce4056b0be93ec91a4,Novembro 2021 Ingleses,,season,2021-11-01,2021-12-01,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-604681f15217260af703e2a9,Iron Man Jurerê 2021 Ingleses,08 Nov 2021,event,2021-11-04,2021-11-08,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb2ab4056b008a7ec9571,Republica 2021 Ingleses,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb2624056b02834ec93d5,Dezembro 2021 Ingleses,,season,2021-12-01,2022-01-01,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-60491402bbefb6359e29f341,Natal 2021 Ingleses,,event,2021-12-23,2021-12-27,active,"[{'minStay': 5, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb3164056b088d3ec97cd,Reveillon 2021 Ingleses,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb2f54056b05c8fec9733,Janeiro 2022 Ingleses,,season,2022-01-01,2022-02-01,active,"[{'minStay': 7, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5f6bb5e04056b0ae01ec9f99,Fevereiro 2022 Ingleses,,season,2022-02-01,2022-03-01,active,"[{'minStay': 7, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-6047a27775f40da7fb0c5ba9,Carnaval 2022 Ingleses,,event,2022-02-25,2022-03-03,active,"[{'minStay': 7, '_i_percent': 0}]",5f6bac0f4056b0809fec905d,False
-5feccc54665fda44f8944cad,Janeiro 2021 Lagoa,,season,2021-01-01,2021-02-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccc777338d397065db054,Fevereiro 2021 Lagoa,,season,2021-02-01,2021-03-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccc8f7338d366ef5db05a,Março 2021 Lagoa,,season,2021-03-01,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fecccaa7338d335065db060,Abril 2021 Lagoa,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece74d7338d3ebbc5dc442,Páscoa 2021 Lagoa,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fecccc57338d3367a5db066,Maio 2021 Lagoa,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccd047338d304e45db075,Junho 2021 Lagoa,,season,2021-06-01,2021-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece77e7338d3b85a5dc46a,Corpus Christi 2021 Lagoa,,event,2021-06-02,2021-06-06,active,"[{'minStay': 4, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccd287338d392ff5db07e,Julho 2021 Lagoa,,season,2021-07-01,2021-08-01,active,"[{'minStay': 3, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccd577338d364af5db097,Agosto 2021 Lagoa,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccd727338d35b9a5db09d,Setembro 2021 Lagoa,,season,2021-09-01,2021-10-01,active,"[{'minStay': 2, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece7ae665fdac1159463e2,Independência 2021 Lagoa,,event,2021-09-03,2021-09-07,active,"[{'minStay': 4, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccd8e7338d383785db0a7,Outubro 2021 Lagoa,,season,2021-10-01,2021-11-01,active,"[{'minStay': 5, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece7d07338d3bcfe5dc482,N Sra Aparecida 2021 Lagoa,,event,2021-10-08,2021-10-12,active,"[{'minStay': 5, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece7f6665fda1be6946513,Finados 2021 Lagoa,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccda9665fda3c8b944cd3,Novembro 2021 Lagoa,,season,2021-11-01,2021-12-01,active,"[{'minStay': 5, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece81a7338d3789a5dc495,República 2021 Lagoa,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccdc6665fda4b69944cda,Dezembro 2021 Lagoa,,season,2021-12-01,2022-01-01,active,"[{'minStay': 5, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-6049142f55f8c05b667c45aa,Natal 2021,,event,2021-12-23,2021-12-27,active,"[{'minStay': 5, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece83b7338d33cf55dc49f,Reveillon 2021 Lagoa,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5feccde6665fdab280944ce2,Janeiro 2022 Lagoa,,season,2022-01-01,2022-02-01,active,"[{'minStay': 7, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fecce22665fda054c944ce9,Fevereiro 2022 Lagoa,,season,2022-02-01,2022-03-01,active,"[{'minStay': 7, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fece8617338d3c5425dc4b5,Carnaval 2022 Lagoa,,event,2022-02-25,2022-03-03,active,"[{'minStay': 7, '_i_percent': 0}]",5feccc267338d35f5d5db049,False
-5fecce627338d35f5e5db0d0,Janeiro 2021 Canasvieiras,,season,2021-01-01,2021-02-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecce7d665fdadffb944d3a,Fevereiro 2021 Canasvieiras,,season,2021-02-01,2021-03-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecce9b7338d326615db14f,Março 2021 Canasvieiras,,season,2021-03-01,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecceb57338d39e465db1a5,Abril 2021 Canasvieiras,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecd6667338d3e7125dc0d8,Páscoa 2021 Canasvieiras,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5feccecc665fda909b944dfc,Maio 2021 Canasvieiras,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5feccee07338d3ed6c5db21c,Junho 2021 Canasvieiras,,season,2021-06-01,2021-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecd9c3665fda51f8945dea,Corpus Christi 2021 Canasvieiras,,event,2021-06-02,2021-06-06,active,"[{'minStay': 4, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5feccf057338d35eda5db27a,Julho 2021 Canasvieiras,,season,2021-07-01,2021-08-01,active,"[{'minStay': 3, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5feccf247338d385995db2cd,Agosto 2021 Canasvieiras,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5feccf4824fdb96afe91bd46,Setembro 2021 Canasvieiras,,season,2021-09-01,2021-10-01,active,"[{'minStay': 2, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fece52b7338d32ed05dc39d,Independência 2021 Canasvieiras,,event,2021-09-03,2021-09-07,active,"[{'minStay': 4, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5feccf61665fda10a4945061,Outubro 2021 Canasvieiras,,season,2021-10-01,2021-11-01,active,"[{'minStay': 5, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fece587665fda24f9945f63,N Sra Aparecida 2021 Canasvieiras,,event,2021-10-08,2021-10-12,active,"[{'minStay': 5, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fece5ac665fda2da1945f6a,Finados 2021 Canasvieiras,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecd01324fdb90ddf91bd8c,Novembro 2021 Canasvieiras,,season,2021-11-01,2021-12-01,active,"[{'minStay': 5, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fece60f7338d3888f5dc3c3,República 2021 Canasvieiras,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecd0307338d375355db6f6,Dezembro 2021 Canasvieiras,,season,2021-12-01,2022-01-01,active,"[{'minStay': 5, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-6049145a861d9b35dd03a6ce,Natal 2021,,event,2021-12-23,2021-12-27,active,"[{'minStay': 5, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fece6317338d33e2a5dc3ce,Reveillon 2021 Canasvieiras,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecd0be665fdaf7289455ed,Janeiro 2022 Canasvieiras,,season,2022-01-01,2022-02-01,active,"[{'minStay': 7, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fecd0de7338d33cc65db856,Fevereiro 2022 Canasvieiras,,season,2022-02-01,2022-03-01,active,"[{'minStay': 7, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-5fece67e665fda7fa8945fa1,Carnaval 2022 Canasvieiras,,event,2022-02-25,2022-03-02,active,"[{'minStay': 7, '_i_percent': 0}]",5fecce37665fdaa3de944cf4,False
-602a79bdeec9e726794dc76d,Fevereiro 2021 Centro,,season,2021-02-01,2021-03-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a7b60eec9e7abc54dc7b9,Março 2021 Centro,,season,2021-03-01,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a7b86358219049cc6e5a5,Abril 2021 Centro,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aa73a3582192c74c6ed1d,Páscoa 2021 Centro,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a7bb335821964dcc6e5af,Maio 2021 Centro,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a7be53582193d0dc6e5ba,Junho 2021 Centro,,season,2021-06-01,2021-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aa7a7358219b0d5c6ed35,Corpus Christi 2021 Centro,,event,2021-06-02,2021-06-06,active,"[{'minStay': 5, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a87c435821926d3c6e7de,Julho 2021 Centro,,season,2021-07-01,2021-08-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a87e7358219de45c6e7e9,Agosto 2021 Centro,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a880e3582190ec4c6e7fd,Setembro 2021 Centro,,season,2021-09-01,2021-10-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aa82deec9e733724dd0c5,Independência 2021 Centro,,event,2021-09-03,2021-09-07,active,"[{'minStay': 4, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a883735821915acc6e805,Outubro 2021 Centro,,season,2021-10-01,2021-11-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aa865eec9e7092b4dd0ce,N Sra Aparecida 2021 Centro,,event,2021-10-08,2021-10-12,active,"[{'minStay': 5, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aa8bb3582192ad1c6ee02,Finados 2021 Centro,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a885ceec9e7a57e4dc97d,Novembro 2021 Centro,,season,2021-11-01,2021-12-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aa9b2eec9e71eb64dd162,República 2021 Centro,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a88a7358219744ec6e814,Dezembro 2021 Centro,,season,2021-12-01,2022-01-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-6049147dce97f0c0ab8c3c93,Natal 2021 2021 Centro,,event,2021-12-23,2021-12-27,active,"[{'minStay': 5, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aaa483582199dbdc6ee61,Reveillon 2021 Centro,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602a891aeec9e752b24dc9a1,Janeiro 2022 Centro,,season,2022-01-01,2022-02-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a75c8eec9e72ddb4dc6d4,False
-602aaa9f358219f1b7c6ee6b,Fevereiro 2021 Campeche,,season,2021-02-01,2021-03-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaabbeec9e7e5844dd1c5,Março 2021 Campeche,,season,2021-03-01,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaadf35821924edc6ee76,Abril 2021 Campeche,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aae5feec9e79c794dd2e3,Páscoa 2021 Campeche,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaafeeec9e71a4a4dd1d8,Maio 2021 Campeche,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aab313582194089c6ef21,Junho 2021 Campeche,,season,2021-06-01,2021-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aae8935821900a0c6f264,Corpus Christi 2021 Campeche,,event,2021-06-02,2021-06-06,active,"[{'minStay': 5, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aab733582191e7ac6ef76,Julho 2021 Campeche,,season,2021-07-01,2021-08-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aab4b358219b270c6ef54,Agosto 2021 Campeche,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aacd935821966e7c6f07c,Setembro 2021 Campeche,,season,2021-09-01,2021-10-01,active,"[{'minStay': 5, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaeac3582197409c6f2a1,Independência 2021 Campeche,,event,2021-09-03,2021-09-07,active,"[{'minStay': 4, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aacfbeec9e746e44dd2aa,Outubro 2021 Campeche,,season,2021-10-01,2021-11-01,active,"[{'minStay': 5, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaed63582192d39c6f2d1,N Sra Aparecida 2021 Campeche,,event,2021-10-08,2021-10-12,active,"[{'minStay': 2, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaefa35821994c4c6f2da,Finados 2021 Campeche,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aad323582197bf9c6f099,Novembro 2021 Campeche,,season,2021-11-01,2021-12-01,active,"[{'minStay': 5, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaf39eec9e73e984dd2fd,República 2021 Campeche,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aad6eeec9e732dc4dd2c0,Dezembro 2021 Campeche,,season,2021-12-01,2022-01-01,active,"[{'minStay': 5, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-604914a2861d9b368303a81d,Natal 2021 2021 Campeche,,event,2021-12-23,2021-12-27,active,"[{'minStay': 7, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aaf5c3582194f5fc6f2e4,Reveillon 2021 Campeche,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-602aae31358219fc56c6f167,Janeiro 2022 Campeche,,season,2022-01-01,2022-02-01,active,"[{'minStay': 7, '_i_percent': 0}]",602a77423582199fd0c6e506,False
-6037a2423cadf81a6c43070f,Março 2021 São Joaquim,,season,2021-02-25,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a25b3cadf8668c430719,Abril 2021 São Joaquim,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037b8c93cadf843d3430cac,Páscoa 2021 São Joaquim,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a2bfbfab294c08f3ebeb,Maio 2021 São Joaquim,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a2d8bfab2974abf3ebf3,Junho 2021 São Joaquim,,season,2021-06-01,2021-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037d0f1bfab291c91f3f7da,Corpus Christi São Joaquim,,event,2021-06-02,2021-06-06,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a2fabfab29d328f3ec03,Julho 2021 São Joaquim,,season,2021-07-01,2021-08-01,active,"[{'minStay': 3, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a31bbfab29b472f3ec0f,Agosto 2021 São Joaquim,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a3333cadf8c1a9430736,Setembro 2021 São Joaquim,,season,2021-09-01,2021-10-01,active,"[{'minStay': 4, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037d1283cadf82c8c431135,Independência São Joaquim,,event,2021-09-03,2021-09-07,active,"[{'minStay': 4, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a35cbfab29a9a2f3ec21,Outubro 2021 São Joaquim,,season,2021-10-01,2021-11-01,active,"[{'minStay': 4, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037d156bfab29b08af3f80f,N Sra Aparecida São Joaquim,,event,2021-10-08,2021-10-12,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037d1763cadf87f5843117a,Finados São Joaquim,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a37c3cadf8aee2430744,Novembro 2021 São Joaquim,,season,2021-11-01,2021-12-01,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037d196bfab29af9ef3f829,República São Joaquim,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a3963cadf8f8c143074b,Dezembro 2021 São Joaquim,,season,2021-12-01,2022-01-01,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-604914df861d9be19703a871,Natal 2021 São Joaquim,,event,2021-12-23,2021-12-27,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a4473cadf83a56430767,Ano Novo 2021 São Joaquim,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-6037a3bf3cadf83cac430757,Janeiro 2022 São Joaquim,,season,2022-01-01,2022-02-01,active,"[{'minStay': 5, '_i_percent': 0}]",6037a185bfab296e4af3ebcc,False
-605355234c7bec0895957446,Março 2021 Fase 1,,season,2021-03-01,2021-04-01,active,"[{'minStay': 2, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605355582df7e53a872513d8,Abril 2021 Fase 1,,season,2021-04-01,2021-05-01,active,"[{'minStay': 2, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605355784c7becf125957486,Páscoa 2021 Fase 1,,event,2021-04-01,2021-04-04,active,"[{'minStay': 2, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-6053565b4c7bec994b957533,Maio 2021 Fase 1,,season,2021-05-01,2021-06-01,active,"[{'minStay': 2, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-6053569a4c7bec8a47957586,Junho 2021 Fase 1,,season,2021-06-01,2021-07-01,active,"[{'minStay': 2, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605356c34c7bec02939575e1,Corpus Christi 2021 Fase 1,,event,2021-06-02,2021-06-06,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605356ff2df7e57a812515b7,Julho 2021 Fase 1,,season,2021-07-01,2021-08-01,active,"[{'minStay': 3, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-6053573c2df7e52a252516c9,Agosto 2021 Fase 1,,season,2021-08-01,2021-09-01,active,"[{'minStay': 2, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605357824c7bec7b69957844,Setembro 2021 Fase 1,,season,2021-09-01,2021-10-01,active,"[{'minStay': 2, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605357a02df7e5245b251739,Feriado Independencia 2021 Fase 1,,event,2021-09-03,2021-09-07,active,"[{'minStay': 4, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605357fddcf1917b7d791834,Iron Man Ingleses 2021 Fase 1,,event,2021-09-16,2021-09-22,active,"[{'minStay': 3, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605358534c7bec3c50957b35,Outubro 2021 Fase 1,,season,2021-10-01,2021-11-01,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605358834c7bec391d957bef,Feriado N S Aparecida 2021 Fase 1,,event,2021-10-08,2021-10-12,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605358af4c7bec64c5957c9b,Feriado Finados 2021 Fase 1,,event,2021-10-29,2021-11-02,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605358e54c7bec5657957d75,Novembro 2021 Fase 1,,season,2021-11-01,2021-12-01,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-60535917dcf1916cec7918a5,Iron Man 2021 Jurere Fase 1,,event,2021-11-04,2021-11-08,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-60535943dcf191844d7918ae,Feriado República 2021 Fase 1,,event,2021-11-12,2021-11-15,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-6053599d4c7bec805e957f56,Dezembro 2021 Fase 1,,season,2021-12-01,2022-01-01,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605359bc4c7bec7eee957f75,Natal 2021 Fase 1,,event,2021-12-23,2021-12-27,active,"[{'minStay': 5, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-605359e74c7becadce957f8a,Ano Novo 2021 Fase 1,,event,2021-12-27,2022-01-02,active,"[{'minStay': 7, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
-60535a1c4c7bec9eea957fae,Janeiro 2022 Fase 1,,season,2022-01-01,2022-02-01,active,"[{'minStay': 7, '_i_percent': 0}]",6053541d2df7e5c0a22512fd,False
+_id,name,type,from,to,status,minStay,_idregion,useMonthlyRate
+5f491486144ab7288afca459,Junho 2021 Fase 2,season,2021-06-01,2021-07-01,active,3,5dced40d9d6eb50010416ca4,False
+5f49156e144ab7708efca495,Corpus Christi 2021 Fase 2,event,2021-06-02,2021-06-06,active,5,5dced40d9d6eb50010416ca4,False
+5f5c5622e5b2df6e17e54b6d,Julho Fase 2,season,2021-07-01,2021-08-01,active,2,5dced40d9d6eb50010416ca4,False
+5dee47708e9f440010d8cb79,Agosto Fase 2 2020,season,2021-08-01,2021-09-01,active,2,5dced40d9d6eb50010416ca4,False
+5dee4bb98e9f440010d8cfba,Feriado Fase 2 Independência 2021,event,2021-09-03,2021-09-07,active,4,5dced40d9d6eb50010416ca4,False
+604fa5c299f210ba4a39f461,Dummy Season 3,season,2021-06-01,2021-07-01,active,10,5de54e337ba5e300103cfd44,False
+604fa5e199f210939e39f46a,Dummy Season 4,season,2021-07-01,2021-08-01,active,10,5de54e337ba5e300103cfd44,False
+604fa5fe99f2107d0239f473,Dummy Season 5,season,2021-08-01,2021-09-01,active,10,5de54e337ba5e300103cfd44,False
+5f6bb9db4056b03613eca07a,Junho 2021 Ingleses,season,2021-06-01,2021-07-01,active,2,5f6bac0f4056b0809fec905d,False
+5f6bc28d4056b0ce19eca2dd,Corpus Christi 2021 Ingleses,event,2021-06-02,2021-06-06,active,5,5f6bac0f4056b0809fec905d,False
+6046274d52172673f903bcf2,Julho 2021 Ingleses,season,2021-07-01,2021-08-01,active,2,5f6bac0f4056b0809fec905d,False
+604662718549524473820b32,Agosto 2021 Ingleses,season,2021-08-01,2021-09-01,active,2,5f6bac0f4056b0809fec905d,False
+60467acc521726171d03df69,Iron Man 2021 Ingleses,event,2021-09-16,2021-09-22,active,4,5f6bac0f4056b0809fec905d,False
+5feccd047338d304e45db075,Junho 2021 Lagoa,season,2021-06-01,2021-07-01,active,2,5feccc267338d35f5d5db049,False
+5fece77e7338d3b85a5dc46a,Corpus Christi 2021 Lagoa,event,2021-06-02,2021-06-06,active,4,5feccc267338d35f5d5db049,False
+5feccd287338d392ff5db07e,Julho 2021 Lagoa,season,2021-07-01,2021-08-01,active,3,5feccc267338d35f5d5db049,False
+5feccd577338d364af5db097,Agosto 2021 Lagoa,season,2021-08-01,2021-09-01,active,2,5feccc267338d35f5d5db049,False
+5fece7ae665fdac1159463e2,Independência 2021 Lagoa,event,2021-09-03,2021-09-07,active,4,5feccc267338d35f5d5db049,False
+5feccee07338d3ed6c5db21c,Junho 2021 Canasvieiras,season,2021-06-01,2021-07-01,active,2,5fecce37665fdaa3de944cf4,False
+5fecd9c3665fda51f8945dea,Corpus Christi 2021 Canasvieiras,event,2021-06-02,2021-06-06,active,4,5fecce37665fdaa3de944cf4,False
+5feccf057338d35eda5db27a,Julho 2021 Canasvieiras,season,2021-07-01,2021-08-01,active,3,5fecce37665fdaa3de944cf4,False
+5feccf247338d385995db2cd,Agosto 2021 Canasvieiras,season,2021-08-01,2021-09-01,active,2,5fecce37665fdaa3de944cf4,False
+5fece52b7338d32ed05dc39d,Independência 2021 Canasvieiras,event,2021-09-03,2021-09-07,active,4,5fecce37665fdaa3de944cf4,False
+602a7be53582193d0dc6e5ba,Junho 2021 Centro,season,2021-06-01,2021-07-01,active,2,602a75c8eec9e72ddb4dc6d4,False
+602aa7a7358219b0d5c6ed35,Corpus Christi 2021 Centro,event,2021-06-02,2021-06-06,active,5,602a75c8eec9e72ddb4dc6d4,False
+602a87c435821926d3c6e7de,Julho 2021 Centro,season,2021-07-01,2021-08-01,active,2,602a75c8eec9e72ddb4dc6d4,False
+602a87e7358219de45c6e7e9,Agosto 2021 Centro,season,2021-08-01,2021-09-01,active,2,602a75c8eec9e72ddb4dc6d4,False
+602aa82deec9e733724dd0c5,Independência 2021 Centro,event,2021-09-03,2021-09-07,active,4,602a75c8eec9e72ddb4dc6d4,False
+602aab313582194089c6ef21,Junho 2021 Campeche,season,2021-06-01,2021-07-01,active,2,602a77423582199fd0c6e506,False
+602aae8935821900a0c6f264,Corpus Christi 2021 Campeche,event,2021-06-02,2021-06-06,active,5,602a77423582199fd0c6e506,False
+602aab733582191e7ac6ef76,Julho 2021 Campeche,season,2021-07-01,2021-08-01,active,2,602a77423582199fd0c6e506,False
+602aab4b358219b270c6ef54,Agosto 2021 Campeche,season,2021-08-01,2021-09-01,active,2,602a77423582199fd0c6e506,False
+602aaeac3582197409c6f2a1,Independência 2021 Campeche,event,2021-09-03,2021-09-07,active,4,602a77423582199fd0c6e506,False
+6037a2d8bfab2974abf3ebf3,Junho 2021 São Joaquim,season,2021-06-01,2021-07-01,active,2,6037a185bfab296e4af3ebcc,False
+6037d0f1bfab291c91f3f7da,Corpus Christi São Joaquim,event,2021-06-02,2021-06-06,active,5,6037a185bfab296e4af3ebcc,False
+6037a2fabfab29d328f3ec03,Julho 2021 São Joaquim,season,2021-07-01,2021-08-01,active,3,6037a185bfab296e4af3ebcc,False
+6037a31bbfab29b472f3ec0f,Agosto 2021 São Joaquim,season,2021-08-01,2021-09-01,active,2,6037a185bfab296e4af3ebcc,False
+6037d1283cadf82c8c431135,Independência São Joaquim,event,2021-09-03,2021-09-07,active,4,6037a185bfab296e4af3ebcc,False
+6053569a4c7bec8a47957586,Junho 2021 Fase 1,season,2021-06-01,2021-07-01,active,2,6053541d2df7e5c0a22512fd,False
+605356c34c7bec02939575e1,Corpus Christi 2021 Fase 1,event,2021-06-02,2021-06-06,active,5,6053541d2df7e5c0a22512fd,False
+605356ff2df7e57a812515b7,Julho 2021 Fase 1,season,2021-07-01,2021-08-01,active,3,6053541d2df7e5c0a22512fd,False
+6053573c2df7e52a252516c9,Agosto 2021 Fase 1,season,2021-08-01,2021-09-01,active,2,6053541d2df7e5c0a22512fd,False
+605357a02df7e5245b251739,Feriado Independencia 2021 Fase 1,event,2021-09-03,2021-09-07,active,4,6053541d2df7e5c0a22512fd,False
+605357fddcf1917b7d791834,Iron Man Ingleses 2021 Fase 1,event,2021-09-16,2021-09-22,active,3,6053541d2df7e5c0a22512fd,False
